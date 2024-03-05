@@ -36,6 +36,9 @@ Voultar (for insisting on a proper logic circuit implementation)
 
 Redherring32 (for providing the board scan of Famicom GPM for reference)
 - [Twitter](https://twitter.com/redherring32)
+
+Zoggins (for spotting the problematic Twin Famicom motherboard rev)
+- [Twitter](https://twitter.com/zoggins)
 -----
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
