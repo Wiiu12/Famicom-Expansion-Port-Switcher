@@ -18,6 +18,7 @@ Significant Titles Affected:
 - Terminator 1/2
 - Tetris (Tengen)
 - Zelda II - The Adventure of Link
+- Double Dragon II - The Revenge (Causes to Mute the background Music and some glitches)
 
 I created the [FamiCoun](https://github.com/jeffqchen/FamiCoun-Famicom-Front-Expansion-NES-SNES-Adapter) and the [TwinDiamond](https://github.com/jeffqchen/TwinDiamond-Twin-Famicom-Expansion-to-NES-SNES-Controller-Adapter) a few years ago and both suffered from this programming oversight by these devs. So it is only natural for me to take matters into my own hands to fix it.
 
